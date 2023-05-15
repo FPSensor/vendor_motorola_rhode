@@ -97,6 +97,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/rhode/proprietary/vendor/firmware/aw882xx_pid_1852_acf.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw882xx_pid_1852_acf.bin \
     vendor/motorola/rhode/proprietary/vendor/firmware/aw882xx_pid_2113_acf.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw882xx_pid_2113_acf.bin \
     vendor/motorola/rhode/proprietary/vendor/firmware/aw882xx_spk_reg.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw882xx_spk_reg.bin \
+    vendor/motorola/rhode/proprietary/vendor/firmware/aw9610x_0.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw9610x_0.bin \
     vendor/motorola/rhode/proprietary/vendor/firmware/aw_skt.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw_skt.bin \
     vendor/motorola/rhode/proprietary/vendor/firmware/csot_goodix_cfg_group.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/csot_goodix_cfg_group.bin \
     vendor/motorola/rhode/proprietary/vendor/firmware/csot_goodix_test_limits_255.csv:$(TARGET_COPY_OUT_VENDOR)/firmware/csot_goodix_test_limits_255.csv \
